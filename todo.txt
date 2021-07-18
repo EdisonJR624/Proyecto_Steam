@@ -1,0 +1,5 @@
+TO DO
+-------
+
+1. Escalar los datos
+2. Hacer el modelo con surprise
