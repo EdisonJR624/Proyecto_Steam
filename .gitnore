@@ -1,4 +1,4 @@
-# Ignorar archivos
+# Ignorar archivos del datase
 *.json
 
 # Byte-compiled / optimized / DLL files
