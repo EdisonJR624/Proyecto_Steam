@@ -1,6 +1,6 @@
 # Ignorar archivos del datase
 *.json
-*.json.gz
+datos/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
