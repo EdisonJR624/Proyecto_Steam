@@ -1,9 +1,0 @@
-TO DO
--------
-
-1. Escalar los datos
-2. Hacer el modelo con surprise
-
-
-3. Hacer una aplicacion donde uno meta sus juegos mas jugados (o favoritos)
-    y retorne una recomendacion de 5 juegos con su caratula (coger el link )
